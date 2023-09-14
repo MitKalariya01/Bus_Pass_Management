@@ -4,7 +4,7 @@
 
 •	The Bus Pass Management System is a web-based application that allows users to purchase, modify, add, and delete bus passes for 
   convenient and hassle-free travel. 
-•	This system is designed to streamline the process of managing bus passes, making it easier for both administrators and passengers to      handle their transportation needs.
+This system is designed to streamline the process of managing bus passes, making it easier for both administrators and passengers to      handle their transportation needs.
 
 # Features
 
@@ -38,4 +38,4 @@
 
 # Contact
 
-• If you have any questions or feedback, feel free to contact us at mit67patel@gmail.com.
+ If you have any questions or feedback, feel free to contact us at mit67patel@gmail.com.
