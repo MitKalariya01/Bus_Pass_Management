@@ -3,8 +3,7 @@
 # Overview
 
 •	The Bus Pass Management System is a web-based application that allows users to purchase, modify, add, and delete bus passes for 
-  convenient and hassle-free travel. 
-This system is designed to streamline the process of managing bus passes, making it easier for both administrators and passengers to      handle their transportation needs.
+  convenient and hassle-free travel. This system is designed to streamline the process of managing bus passes, making it easier for both    administrators and passengers to handle their transportation needs.
 
 # Features
 
@@ -23,6 +22,7 @@ This system is designed to streamline the process of managing bus passes, making
   • Admin Login:         Administrators can log in to access the admin panel.
   • User Management:     Admins can manage user accounts, view user details, and deactivate accounts if necessary.
   • Pass Management:     Admins can oversee pass categories, review pass purchases, and address user requests for pass modifications.
+
 # Technologies Used
 
 • Frontend: HTML, CSS, JavaScript, JQuery
